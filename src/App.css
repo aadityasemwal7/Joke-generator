@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+* {
+  font-family: 'Baloo Bhai 2', cursive;
+  color: white;
+  background: linear-gradient(to right,red , orange);
+
+}
+
+.App h1 {
+  font-family: 'Sriracha', cursive;
+
+}
+
+.App footer {
+  position: absolute;
+  bottom: 32px;
+  background: none;
+  left: 44%;
+}
